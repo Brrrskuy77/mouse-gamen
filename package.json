@@ -1,0 +1,31 @@
+{
+  "name": "mouse-gamen",
+  "version": "1.0.0",
+  "description": "Mouse bermerk Gamen Gaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "Mouse Gameng Gaming"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/mouse-gamen.git"
+  },
+  "keywords": [
+    "Mouse",
+    "Gaming",
+    "Gamen"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/mouse-gamen/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/mouse-gamen#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
